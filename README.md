@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Junoh LEE from South Korea. 
-- 👀 I’m interested in Data Science, ML, DL, NLP
+- 👋 Hi, I’m Junoh Lee from South Korea. 
+- 👀 I’m interested in Data Science, ML, DL, E.E
 - 🌱 I’m currently major in  Electrical Engineering in Soongsil Univ....
 - 📫 How to reach me jolee010625@gmail.com or pyock2@soongsil.ac.kr
 
