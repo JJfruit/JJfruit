@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Junoh Lee from South Korea. 
-- 👀 I’m interested in Data Science, ML, DL, E.E
-- 🌱 I’m currently major in  Electrical Engineering in Soongsil Univ....
-- 📫 How to reach me jolee010625@gmail.com or pyock2@soongsil.ac.kr
+- 👀 I’m interested in Metasurface Design & Optimization in Wireless system.
+- 🌱 I’m currently in Electrical Engineering in Yonsei University
+- 📫 How to reach me : jolee@yonsei.ac.kr
 
 
 <!---
